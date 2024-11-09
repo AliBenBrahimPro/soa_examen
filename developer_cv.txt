@@ -1,0 +1,47 @@
+Jane Smith
+456 Web Developer Ave
+Los Angeles, CA 90001
+Email: jane.smith@email.com
+Phone: +1 (555) 987-6543
+LinkedIn: linkedin.com/in/janesmith
+
+Objective:
+A skilled React Developer with 4+ years of experience in building responsive and high-performance web applications. Proficient in React.js, Redux, JavaScript, and modern frontend tools. Eager to bring expertise in React development to a fast-paced and growing team.
+
+Skills:
+- React.js, Redux, React Router
+- JavaScript (ES6+), HTML5, CSS3, SASS
+- Frontend frameworks: Bootstrap, Material-UI
+- Webpack, Babel, NPM
+- REST APIs, GraphQL
+- Version control: Git, GitHub
+- Agile/Scrum practices
+- Testing frameworks: Jest, Enzyme, Cypress
+- Continuous Integration/Continuous Deployment (CI/CD)
+
+Experience:
+
+Frontend Developer | WebTech Labs | Los Angeles, CA | Mar 2020 – Present
+- Developed interactive UIs using React.js, Redux, and React Router for efficient state management and routing.
+- Integrated third-party APIs for dynamic content delivery and real-time updates.
+- Optimized the application for speed and performance, reducing load times by 40%.
+- Collaborated with backend developers to design and implement a RESTful API architecture.
+- Created reusable UI components and contributed to the component library for faster development.
+
+React Developer | Digital Horizon | Los Angeles, CA | Jun 2018 – Feb 2020
+- Led the development of a large-scale React application for e-commerce with real-time inventory updates.
+- Utilized Redux for state management, improving scalability and simplifying data flow.
+- Worked closely with UX/UI designers to translate wireframes into functional and responsive user interfaces.
+- Created automated tests using Jest and Enzyme to ensure code quality and reliability.
+- Participated in sprint planning, code reviews, and daily standups as part of an Agile team.
+
+Education:
+Bachelor of Science in Software Engineering | University of California, Los Angeles | 2014 – 2018
+
+Certifications:
+- React Nanodegree | Udacity
+- JavaScript Algorithms and Data Structures Certification | freeCodeCamp
+
+---
+
+References available upon request.
